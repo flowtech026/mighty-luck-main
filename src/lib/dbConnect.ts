@@ -16,7 +16,7 @@ async function dbConnect(): Promise<void> {
   }
 
   try {
-    const uri = process.env.MONGO_URI!;
+    const uri = process.env.MONGO_URI! || process.env.MONGO_URL!;
     
     if (!uri) {
       throw new Error("MongoDB connection string is not set. Please set MONGO_URL or MONGODB_URI in environment variables.");
