@@ -1,0 +1,23 @@
+@media (min-width: 320px) and (max-width: 413px) {
+  header > div {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  header div[class*="z-10"] {
+    gap: 6px !important;
+  }
+  header div[class*="z-[2]"] {
+    gap: 6px !important;
+  }
+  header div[class*="lg:hidden"] > div:first-child {
+    width: 72px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  header div[class*="lg:hidden"] > div:first-child span {
+    font-size: 9.5px !important;
+  }
+  header div[class*="lg:hidden"] + div {
+    gap: 6px !important;
+  }
+}

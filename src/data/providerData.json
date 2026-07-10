@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "BELATRA",
+    "image": "/p-1.png",
+    "gamesCount": 226
+  },
+  {
+    "id": 2,
+    "name": "BGAMING",
+    "image": "/p-2.png",
+    "gamesCount": 142
+  },
+  {
+    "id": 3,
+    "name": "TADA GAMING",
+    "image": "/p-3.png",
+    "gamesCount": 114
+  },
+  {
+    "id": 4,
+    "name": "ENDORPHINA",
+    "image": "/p-4.png",
+    "gamesCount": 156
+  },
+  {
+    "id": 5,
+    "name": "NOLIMIT CITY",
+    "image": "/p-5.png",
+    "gamesCount": 82
+  },
+  {
+    "id": 6,
+    "name": "HACKSAW GAMING",
+    "image": "/p-6.png",
+    "gamesCount": 134
+  },
+  {
+    "id": 7,
+    "name": "BOOMING GAMES",
+    "image": "/p-7.png",
+    "gamesCount": 188
+  },
+    {
+    "id": 8,
+    "name": "HACKSAW GAMING",
+    "image": "/p-1.png",
+    "gamesCount": 134
+  },
+  {
+    "id": 9,
+    "name": "BOOMING GAMES",
+    "image": "/p-2.png",
+    "gamesCount": 188
+  }
+]

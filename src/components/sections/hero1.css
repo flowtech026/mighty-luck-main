@@ -1,0 +1,52 @@
+@media (min-width: 320px) and (max-width: 413px) {
+  .hero-section-1 {
+    padding: 16px !important;
+    gap: 16px !important;
+  }
+  
+  .hero-section-1 h3 {
+    font-size: 15px !important;
+    width: 200px !important;
+  }
+  
+  .hero-section-1 .crypto-icons-row {
+    flex-wrap: nowrap !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    max-width: 334px !important;
+    gap-x: 4px !important;
+  }
+  
+  .hero-section-1 .crypto-icons-row img {
+    height: 14px !important;
+    width: auto !important;
+  }
+  
+  .hero-section-1 .deposit-now-btn {
+    width: 140px !important;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 413px) {
+  .hero-section-1 {
+    padding: 20px !important;
+    gap: 20px !important;
+  }
+  
+  .hero-section-1 h3 {
+    font-size: 18px !important;
+    width: 237px !important;
+  }
+  
+  .hero-section-1 .crypto-icons-row {
+    gap-x: 12px !important;
+  }
+  
+  .hero-section-1 .crypto-icons-row img {
+    height: 16px !important;
+  }
+  
+  .hero-section-1 .deposit-now-btn {
+    width: 148px !important;
+  }
+}

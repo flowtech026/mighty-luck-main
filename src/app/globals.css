@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Fix Chrome autofill background overriding dark theme inputs */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #112f82 inset !important;
+  -webkit-text-fill-color: white !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+body.hide-mobile-nav #mobile-bottom-nav {
+  display: none !important;
+}
+
+/* Hide scrollbar on all elements for mobile/tablet devices */
+@media (max-width: 1024px) {
+  ::-webkit-scrollbar {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+  }
+
+  * {
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+  }
+}
+
+@keyframes circularRotate {
+  from {
+    transform: rotate(-90deg);
+  }
+  to {
+    transform: rotate(270deg);
+  }
+}
+
+@keyframes circularFillStep {
+  from {
+    stroke-dashoffset: 452.39;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-circular-rotate {
+  transform-origin: center;
+  transform: rotate(-90deg);
+}
+
+.animate-circular-fill {
+  animation: circularFillStep 2.5s ease-in-out 1 forwards;
+}

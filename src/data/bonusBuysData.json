@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "ECHNATON GOLD",
+    "image": "/games/b-1.png"
+  },
+  {
+    "id": 2,
+    "title": "MONKEYS GO BANANAS MULTIMAX",
+    "image": "/games/b-2.png"
+  },
+  {
+    "id": 3,
+    "title": "RAGNA RAVENS WILD ENERGY",
+    "image": "/games/b-3.png"
+  },
+  {
+    "id": 4,
+    "title": "NEON VILLAINS",
+    "image": "/games/b-4.png"
+  },
+  {
+    "id": 5,
+    "title": "FRUITYLICIOUS DOUBLEMAX",
+    "image": "/games/b-5.png"
+  },
+  {
+    "id": 6,
+    "title": "CASH STREAK DICE",
+    "image": "/games/b-6.png"
+  },
+  {
+    "id": 7,
+    "title": "LUCKY CLOVERLAND DICE",
+    "image": "/games/b-7.png"
+  },
+  {
+    "id": 8,
+    "title": "NEON VILLAINS",
+    "image": "/games/b-4.png"
+  },
+  {
+    "id": 9,
+    "title": "CASH STREAK DICE",
+    "image": "/games/b-6.png"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "title": "Patrick vs Nefertiti",
+    "image": "/games/ps-1.png",
+    "provider": "",
+    "isPopular": true
+  },
+  {
+    "id": "2",
+    "title": "Sweet Bonanza Super Scatter",
+    "image": "/games/ps-2.png",
+    "provider": "Pragmatic Play",
+    "isPopular": true
+  },
+  {
+    "id": "3",
+    "title": "American Roulette",
+    "image": "/games/ps-3.png",
+    "provider": "",
+    "isPopular": true
+  },
+  {
+    "id": "4",
+    "title": "Cash-O-Matic! Extreme Cash Out",
+    "image": "/games/ps-4.png",
+    "provider": "",
+    "isPopular": true
+  },
+  {
+    "id": "5",
+    "title": "Ride'em Poker",
+    "image": "/games/ps-5.png",
+    "provider": "",
+    "isPopular": true
+  },
+  {
+    "id": "6",
+    "title": "Sweet Bonanza",
+    "image": "/games/ps-1.png",
+    "provider": "Pragmatic Play",
+    "isPopular": false
+  },
+  {
+    "id": "7",
+    "title": "Retro Sweets",
+    "image": "/games/ps-2.png",
+    "provider": "Push Gaming",
+    "isPopular": false
+  },
+  {
+    "id": "8",
+    "title": "Sweet Bonanza Candyland",
+    "image": "/games/ps-3.png",
+    "provider": "Pragmatic Play",
+    "isPopular": false
+  },
+  {
+    "id": "9",
+    "title": "Sweet Craze",
+    "image": "/games/ps-4.png",
+    "provider": "Pragmatic Play",
+    "isPopular": false
+  },
+  {
+    "id": "10",
+    "title": "Sweet Rush Megaways",
+    "image": "/games/ps-5.png",
+    "provider": "BGaming",
+    "isPopular": false
+  },
+  {
+    "id": "11",
+    "title": "Sweet Land",
+    "image": "/games/ps-1.png",
+    "provider": "TaDa Gaming",
+    "isPopular": false
+  },
+  {
+    "id": "12",
+    "title": "Fire 81",
+    "image": "/games/ps-4.png",
+    "provider": "",
+    "isPopular": true
+  },
+  {
+    "id": "13",
+    "title": "Tiger Scratch",
+    "image": "/games/ps-5.png",
+    "provider": "",
+    "isPopular": true
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "ROULETTE",
+    "image": "/games/t-1.png"
+  },
+  {
+    "id": 2,
+    "title": "BLACKJACK",
+    "image": "/games/t-2.png"
+  },
+  {
+    "id": 3,
+    "title": "BACCARAT",
+    "image": "/games/t-3.png"
+  },
+  {
+    "id": 4,
+    "title": "TEXAS HOLD'EM",
+    "image": "/games/t-4.png"
+  },
+  {
+    "id": 5,
+    "title": "CRAPS",
+    "image": "/games/t-5.png"
+  },
+  {
+    "id": 6,
+    "title": "SIC BO",
+    "image": "/games/t-6.png"
+  },
+  {
+    "id": 7,
+    "title": "DRAGON TIGER",
+    "image": "/games/t-7.png"
+  },
+  {
+    "id": 8,
+    "title": "EUROPEAN ROULETTE",
+    "image": "/games/t-1.png"
+  },
+  {
+    "id": 9,
+    "title": "SPEED BACCARAT",
+    "image": "/games/t-3.png"
+  }
+]

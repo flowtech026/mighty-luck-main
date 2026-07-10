@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "CRASH",
+    "image": "/games/21.png"
+  },
+  {
+    "id": 2,
+    "title": "CRASH TOUCHDOWN",
+    "image": "/games/22.png"
+  },
+  {
+    "id": 3,
+    "title": "CRUSADER",
+    "image": "/games/23.png"
+  },
+  {
+    "id": 4,
+    "title": "CRASH BONUS",
+    "image": "/games/24.png"
+  },
+  {
+    "id": 5,
+    "title": "CRASH GOAL",
+    "image": "/games/25.png"
+  },
+  {
+    "id": 6,
+    "title": "CRASH FRUIT",
+    "image": "/games/26.png"
+  },
+  {
+    "id": 7,
+    "title": "CRASH PUCK",
+    "image": "/games/27.png"
+  },
+  {
+    "id": 8,
+    "title": "CRASH PINBALL",
+    "image": "/games/21.png"
+  },
+  {
+    "id": 9,
+    "title": "CRASH PUCK",
+    "image": "/games/24.png"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "PANDARIFFIC",
+    "image": "/games/11.png"
+  },
+  {
+    "id": 2,
+    "title": "ZEUS GOES BANANAS",
+    "image": "/games/12.png"
+  },
+  {
+    "id": 3,
+    "title": "PATRICK VS NEFERTITI",
+    "image": "/games/13.png"
+  },
+  {
+    "id": 4,
+    "title": "SCROLL OF GODS",
+    "image": "/games/14.png"
+  },
+  {
+    "id": 5,
+    "title": "XO PARADISE",
+    "image": "/games/15.png"
+  },
+  {
+    "id": 6,
+    "title": "CASH-O-MATIC! EXTREME CASH OUT",
+    "image": "/games/16.png"
+  },
+  {
+    "id": 7,
+    "title": "ELVEN FORTUNE",
+    "image": "/games/17.png"
+  },
+  {
+    "id": 8,
+    "title": "MYSTIC UNICORN",
+    "image": "/games/11.png"
+  },
+  {
+    "id": 9,
+    "title": "NEON RIDER",
+    "image": "/games/14.png"
+  },
+  {
+    "id": 10,
+    "title": "CYBERPUNK HEIST",
+    "image": "/games/15.png"
+  }
+]

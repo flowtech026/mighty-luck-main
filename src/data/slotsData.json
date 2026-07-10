@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "ALLY ALIENS",
+    "image": "/games/3.png"
+  },
+  {
+    "id": 2,
+    "title": "EGYPT'S MAGIC",
+    "image": "/games/4.png"
+  },
+  {
+    "id": 3,
+    "title": "CACTUS GOES NUTS",
+    "image": "/games/5.png"
+  },
+  {
+    "id": 4,
+    "title": "PANTHER'S RICHES",
+    "image": "/games/6.png"
+  },
+  {
+    "id": 5,
+    "title": "HONEY MONEY MULTIPLIER",
+    "image": "/games/7.png"
+  },
+  {
+    "id": 6,
+    "title": "POPPING MANIA",
+    "image": "/games/8.png"
+  },
+  {
+    "id": 7,
+    "title": "DOUBLE WIN COLLECTION",
+    "image": "/games/7.png"
+  },
+  {
+    "id": 8,
+    "title": "WILD WEST BOUNTY",
+    "image": "/games/4.png"
+  },
+  {
+    "id": 9,
+    "title": "NEON RUSH",
+    "image": "/games/5.png"
+  },
+  {
+    "id": 10,
+    "title": "DRAGON'S HOARD",
+    "image": "/games/6.png"
+  }
+]
